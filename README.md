@@ -32,5 +32,14 @@ This project demonstrates the use of React components, state management, and mod
    npm install
 4. Run the project
    npm start
-   
+
 ## Screenshots
+
+### Home Page
+![Home Page](screenshots_img/HomePage.png)
+
+### Find Event
+![Find Page](screenshots_img/Find.png)
+
+### Registration
+![Registration](screenshots_img/Register.jpeg)
