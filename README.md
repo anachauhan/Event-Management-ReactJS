@@ -13,6 +13,10 @@ This project demonstrates the use of React components, state management, and mod
 - Responsive user interface
 - Built using reusable React components
 
+
+**[Live Web App Demo Link](https://693c4205d72e47119ae4c6af--event-management-reactjs.netlify.app/)**
+
+
 ## Tech Stack
 
 **Frontend**
